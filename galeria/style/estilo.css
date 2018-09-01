@@ -1,0 +1,26 @@
+html{
+  background: black;
+}
+
+
+.barra{
+  display: flex;
+  justify-content: center;
+
+}
+
+.barra img{
+  width:200px;
+  height:200px;
+          }
+
+.panel{
+  display: flex;
+  justify-content: center;
+}
+
+.panel img{
+  width:400px;
+  height:400px;
+  justify-content: center;
+}
